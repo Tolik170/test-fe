@@ -3,6 +3,6 @@ export const styles = {
     overflowY: 'auto',
     flex: 1,
     display: 'flex',
-    flexDirection: 'column',
-  },
+    flexDirection: 'column'
+  }
 }
