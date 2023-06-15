@@ -1,7 +1,7 @@
 import Box from '@mui/material/Box'
 
-import { styles } from './AppContent.styles'
-import AppRouter from '../../routes/routes'
+import { styles } from '~/containers/app-content/AppContent.styles'
+import AppRouter from '~/routes/routes'
 
 const AppContent = () => {
 

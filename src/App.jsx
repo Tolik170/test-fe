@@ -1,4 +1,4 @@
-import AppContent from '../containers/app-content/AppContent'
+import AppContent from '~/containers/app-content/AppContent'
 
 const App = () => {
 
